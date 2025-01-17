@@ -75,9 +75,12 @@ Limitations:
 - ScreenShot below.<img src="./.graphics/ArgoCD.png" width="100%" height="100%" />
 - If team needs more, then depending on available resources in the cluster, the MOD can be increased to 10 to do 10 concurrent PR deployments. 
 - Currently, the ArgoCD is polling the tenant repos every 3 minutes for changes, so the changes will be reflected in the cluster within 3 to 6 minutes of the PR creation or main merge.
-### Resources
-This repository is provided by Ministry of Attorney General, Information Systems Branch OpenShift Support Team, courtesy of the Government of British Columbia.
 
+## Justice and Public Safety Sector (JPSS) OpenShift Support and Development Guidance
+
+https://jag.gov.bc.ca/wiki/display/ITSDPROJ/11_JPSS+OpenShift+Namespace+Management+Support+and+Development+Guidance
+
+This repository is provided by Ministry of Attorney General, Information Systems Branch OpenShift Support Team, courtesy of the Government of British Columbia.
 
 
 
