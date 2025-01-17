@@ -1,5 +1,7 @@
 # OpenShift Emerald QuickStart Template for the Justice Sector
 
+Last Updated: Jan 17, 2025
+
 ## About the Justice Sector
 
 The Justice Sector operates within a framework of heightened sensitivity, handling confidential and critical data such as legal records, court proceedings, and evidence management. This repository is specifically designed to address the unique requirements of deploying applications within the Justice Sector, ensuring compliance with stringent security, privacy, and operational standards. By leveraging the Emerald OpenShift environment, Justice Sector teams can deploy scalable and secure applications while adhering to best practices for managing sensitive data. This repository provides the tools, templates, and guidelines necessary to streamline application deployment and foster collaboration among teams, all while maintaining the integrity and confidentiality of Justice sector operations.
